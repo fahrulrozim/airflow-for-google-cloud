@@ -1,2 +1,0 @@
-pyarrow
-apache-airflow-providers-google
